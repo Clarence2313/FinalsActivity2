@@ -2,8 +2,8 @@
 $x = 5;
 $x += 3;
 echo $x;
-?>
 
-// Question:
-// What will be the output?
+// what will be the output
 // 8
+
+?>
